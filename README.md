@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/82457030/166624863-c19742c9-fb25-4c73-a714-aa26ca7cc612.png)
 # Real-time Twitter Sentiment Analysis for Brand Improvement and Topic Tracking
 
 
