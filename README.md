@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/82457030/166624863-c19742c9-fb25-4c73-a714-aa26ca7cc612.png)
+
+
 ##Banglore Housing Price Prediction
 This is a Supervised Learning Problem where the Prediction of Housing Prices are done by understanding & evaluating the trends of price of the historical data.
 
